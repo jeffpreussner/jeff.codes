@@ -6,7 +6,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 
 ## Implementation links
 
-- [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
+- [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/)
 - [Netlify CMS](https://www.netlifycms.org)
 - [Gatsby + Netlify CMS](https://www.gatsbyjs.com/starters/netlify-templates/gatsby-starter-netlify-cms)
  
