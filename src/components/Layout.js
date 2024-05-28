@@ -57,7 +57,7 @@ const TemplateWrapper = ({ nav, children }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix("/")}img/og-image.jpg`}
+          content={`${withPrefix("/")}img/apple-touch-icon.png`}
         />
       </Helmet>
       <Navbar links={nav} />
